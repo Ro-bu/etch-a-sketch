@@ -1,0 +1,1 @@
+This is an etch-a-sketch browser app for the odin project curriculum
